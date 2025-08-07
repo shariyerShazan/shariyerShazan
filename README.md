@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Shariyer Shazan</h1>
 <h3 align="center">🚀Software Engineer | Full Stack (MERN) Web Developer</h3>
 
----
 
 <p align="center">
   <img src="https://github.com/shariyerShazan/shariyerShazan/blob/6b082a53fac30ee2ceae027e9fe83a176cd22547/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png" width="100%" alt="shazan banner"/>
