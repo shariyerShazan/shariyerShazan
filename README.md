@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shariyerShazan/shariyerShazan/Black and Yellow Web Developer LinkedIn Banner.png" width="100%" alt="shazan banner"/>
+  <img src="https://github.com/shariyerShazan/shariyerShazan/blob/8cbb7707a7c5d1af54a90e8074a907d7da6e8155/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" width="100%" alt="shazan banner"/>
 </p>
 
 
