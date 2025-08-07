@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shariyerShazan/shariyerShazan/main/Banner/raisul-24.gif" width="100%" alt="Raisul Banner"/>
+  <img src="https://raw.githubusercontent.com/shariyerShazan/shariyerShazan/Black and Yellow Web Developer LinkedIn Banner.png" width="100%" alt="Raisul Banner"/>
 </p>
 
 
