@@ -59,17 +59,17 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&hide_border=true" width="75%" />
   </p>
   <p align="center">
-     <img src="https://streak-stats.demolab.com?user=shariyerShazan&theme=radical&hide_border=true" width="48%" />
+     <img src="https://streak-stats.demolab.com?user=shariyerShazan&theme=radical&hide_border=true" width="75%" />
   </p>
 
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark" width="75%" />
   </p>
   <p align="center">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark" width="45%" />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark" width="75%" />
   </p>
 </p>
 
