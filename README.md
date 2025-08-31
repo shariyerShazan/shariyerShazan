@@ -76,6 +76,15 @@
 
 </p>
 
+
+### 🤝 Interpersonal Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Leadership-007BFF?style=for-the-badge&logo=trustpilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Communication-FF5722?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teamwork-9C27B0?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Time%20Management-4CAF50?style=for-the-badge&logo=clockify&logoColor=white" />
+</p>
+
 ---
 
 
