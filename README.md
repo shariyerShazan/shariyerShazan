@@ -36,14 +36,15 @@
 #### 🔗 Backend & Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=none&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+ 
 </p>
 
 #### 💳 Payment & Auth
 <p align="center">
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/SSLCommerz-0177B5?style=for-the-badge&logo=ssl&logoColor=white" />
+   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=none&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 #### 🛠 Tools & Platforms
