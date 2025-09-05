@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/shariyerShazan/shariyerShazan/blob/main/2.png)" width="100%" alt="shazan banner"/>
+  <img src="https://github.com/shariyerShazan/shariyerShazan/blob/main/2.png)](https://github.com/shariyerShazan/shariyerShazan/blob/5cbe7641dfa790c39a1690edcd9e96fd813c2b01/2.png" width="100%" alt="shazan banner"/>
 </p>
 
 
