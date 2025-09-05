@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="[https://github.com/shariyerShazan/shariyerShazan/blob/6b082a53fac30ee2ceae027e9fe83a176cd22547/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png](https://github.com/shariyerShazan/shariyerShazan/blob/main/2.png)" width="100%" alt="shazan banner"/>
+  <img src="[[https://github.com/shariyerShazan/shariyerShazan/blob/6b082a53fac30ee2ceae027e9fe83a176cd22547/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner%20(1).png](https://github.com/shariyerShazan/shariyerShazan/blob/main/2.png)](https://github.com/shariyerShazan/shariyerShazan/blob/a4a6e40f2d939c04bafee54954b9c3eb7b73d705/2.png)" width="100%" alt="shazan banner"/>
 </p>
 
 
