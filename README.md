@@ -1,10 +1,16 @@
 <h1 align="center">Hey there! 👋 I'm Shariyer Shazan</h1>
 <h3 align="center">🚀Software Engineer | Full Stack (MERN) Web Developer</h3>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mostakim69&label=Mostakim%20GitHub%20Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Mostakim Total Github profile views" />
+</p>
+
 
 <p align="center">
   <img src="./2.png" width="100%" alt="shazan banner"/>
 </p>
+
 
 
 ### 🌍 Let's Connect
