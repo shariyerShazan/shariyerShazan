@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="./2.png" width="100%" alt="shazanbanner"/>
+  <img src="./2.png" width="100%" alt="shazanBanner"/>
 </p>
 
 
