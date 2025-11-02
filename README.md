@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Mailtrap-161B22?style=for-the-badge&logo=mailtrap&logoColor=white" />
@@ -73,6 +73,7 @@
 
 ---
 
+<!-- 
 ### 🧵 Microservices, Messaging & Architecture
 <p align="center">
 <img src="https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge&logo=none&logoColor=white" />
@@ -83,6 +84,7 @@
 </p>
 
 ---
+--->
 
 ### 💳 Payment Systems
 <p align="center">
