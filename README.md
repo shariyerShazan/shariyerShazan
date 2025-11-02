@@ -35,7 +35,6 @@
 
 ## 🔧 Tech Stack
 
----
 
 ### 💻 Frontend
 <p align="center">
