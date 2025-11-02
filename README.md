@@ -164,10 +164,8 @@
 
 ### 🧠 Currently Learning
 
-- 🎯 **AI + Web Integration**
-- 📘 **React-native**
-- ⚡ **Postgresql | Docker | MySQL etc.**
-
+- 🎯 **Microservices** (GoFiber & Node.js)
+- 📘 **Kafka** (Message Queue / Event-Driven Architecture)
 
 
 
