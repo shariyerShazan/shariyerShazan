@@ -154,11 +154,23 @@
 
 ### 💻 About Me:
 
-- 🔭 I’m currently working as a **Full-Stack Web Developer** using the MERN stack.  
-- 🎓 Pursuing Bsc in Computure science at **Southeast Univarsity**.   
-- 💡 Exploring **AI integration**, **React-native**, **Postgresql-Docker-MySQL**, and **modern web architecture** in real-world apps.  
-- 💬 Ask me about **JavaScript, TypeScript, React, Redux, Next.js, Node, Express, MongoDB, Firebase, Mongoose**, or **project deployment**.  
-- 📄 <a target="_blank" href="https://drive.google.com/file/d/1ynzYQHcYjNxNQxZyfW84zooNeundGdNk/view">View My Resume</a>
+- 🔭 I’m currently working as a **Full-Stack Web Developer**, building scalable web apps using 
+  **React, Next.js, TypeScript, Node.js, Express**, and **GoFiber**.
+- 🎓 Pursuing a **B.Sc. in Computer Science** at **Southeast University**.
+- ⚙️ Strong in **backend engineering** with hands-on experience in  
+  **MongoDB, PostgreSQL, MySQL, Prisma, Mongoose, REST APIs, JWT, Socket.io**,  
+  and **Docker-based deployments**.
+- 🚀 Experienced in **Cloud & DevOps fundamentals** including  
+  **AWS, CI/CD pipelines, Nginx, Vercel, Render**, and modern deployment workflows.
+<!-- 🧩 Skilled in modern architecture patterns like  
+  **Clean Architecture, Caching (Redis), Messaging Queues (RabbitMQ), Microservices**,  
+  and **AI-powered integrations**. -->
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node, Express, GoFiber, Databases, Cloud, or System Design basics**.
+- 📄 <a target="_blank" href="https://drive.google.com/file/d/1ynzYQHcYjNxNQxZyfW84zooNeundGdNk/view">
+  View My Resume
+</a>
+
+
 
 ---
 
