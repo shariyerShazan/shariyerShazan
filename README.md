@@ -1,5 +1,6 @@
-<h1 align="center">Hey there! 👋 I'm Shariyer Shazan</h1>
-<h3 align="center">🚀Software Engineer | Full Stack (MERN) Web Developer</h3>
+<h1 align="center">🔥 Hey there! I'm <span style="color:#FF6B6B;">Shariyer Shazan</span> 👋</h1>
+<h3 align="center">💻 Full Stack Web Developer | 🌐 Devops Engineer | 🚀 Software Engineer | 🤖 AI Integration</h3>
+
 
 <!-- Visitor Counter -->
 <!--
