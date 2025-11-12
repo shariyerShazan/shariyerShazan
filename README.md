@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Hey there! I'm <span style="color:#FF6B6B;">Shariyer Shazan</span> 👋</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🌐 Devops Engineer | 🚀 Software Engineer | 🤖 AI Integration</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 Software Engineer | 🤖 AI Integration</h3>
 
-
+<!---🌐 Devops Engineer |--->
 <!-- Visitor Counter -->
 <!--
 <p align="center">
