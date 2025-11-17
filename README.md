@@ -1,10 +1,12 @@
 <h1 align="center">🔥 Hey there! I'm <span style="color:#FF6B6B;">Shariyer Shazan</span> 👋</h1>
 
+
+<h3 align="center">💻 Full Stack Web Developer | 🚀 Software Engineer </h3>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<h3 align="center">💻 Full Stack Web Developer | 🚀 Software Engineer </h3>
 
 <!---🌐 Devops Engineer |--->
 <!-- Visitor Counter -->
