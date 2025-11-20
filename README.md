@@ -169,6 +169,15 @@
  
 </p>
 
+<!---
+### 📊 GitHub Stats
+-
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariyerShazan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shariyerShazan&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shariyerShazan&theme=transparent&hide_border=true) |
+----->
+
+
 ---
 
 ### 💻 About Me:
