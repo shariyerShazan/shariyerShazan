@@ -169,7 +169,15 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark&cache_seconds=1800" width="45%" />
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark&cache_seconds=1800" width="45%" />
   </p>
- 
+
+
+  <!--
+<p align="center">
+  <a href="https://github.com/shariyerShazan"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=algolia"/> </a>
+</p>
+  -->
+
+  
 </p>
 
 <!---
