@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm <span style="color:#FF6B6B;">Shariyer Shazan</span> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/></h1>
 
 
-<h3 align="center">💻 Full Stack Web Developer | Software Engineer </h3>
+<h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
