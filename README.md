@@ -4,7 +4,7 @@
 <h3 align="center">𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
 <p align="center">
-  <img src="(https://github.com/shariyerShazan/shariyerShazan/blob/12f69cef21f935fb812c228b8270b74efa593af0/3-banner.png)" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="./2.png" width="100%" alt="shazan Banner"/>
+  <img src="./3-banner.png" width="100%" alt="shazan Banner"/>
 </p>
 
 
