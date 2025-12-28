@@ -156,7 +156,7 @@
 
   <!--
 <div align="center">
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shariyershazan/)
+
 </div>
 --->
 
@@ -173,24 +173,25 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=github_dark&cache_seconds=1800" width="45%" />
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=github_dark&cache_seconds=1800" width="45%" />
   </p>
-
+</p>
 
   <!--
-<p align="center ">
-  <a href="https://github.com/shariyerShazan"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=algolia"/> </a>
+  Leetcode + stats
+<p align="center">
+  <a href="https://leetcode.com/u/shariyershazan/">
+    <img src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
+  </a>
+
+  <a href="https://github.com/shariyerShazan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
   -->
 
-  
-</p>
-
-<!---
-### 📊 GitHub Stats
--
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariyerShazan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shariyerShazan&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shariyerShazan&theme=transparent&hide_border=true) |
------>
+<!--- 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+--->
 
 
 ---
