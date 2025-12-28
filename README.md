@@ -154,7 +154,11 @@
 
 ---
 
-
+  <!--
+<div align="center">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/shariyershazan/)
+</div>
+--->
 
 ### 📊 GitHub Stats
 
