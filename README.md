@@ -99,7 +99,7 @@
 
 ---
 
-<!-- 
+<!--  
 ### 🧵 Microservices, Messaging & Architecture
 <p align="center">
 <img src="https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge&logo=none&logoColor=white" />
