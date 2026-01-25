@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm <span style="color:#FF6B6B;">𝐒𝐡𝐚𝐫𝐢𝐲𝐞𝐫 𝐒𝐡𝐚𝐳𝐚𝐧</span> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/></h1>
-
+ 
 
 <h3 align="center">Jr. Software Engineer | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
