@@ -3,9 +3,18 @@
 
 <h3 align="center">Jr. Software Engineer | 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
 
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
+
+
+<p align="center">
+  <img src="./3-banner.png" width="100%" alt="shazan Banner"/>
+</p>
+
+
 
 <!--- 
 ## 🚀 About Me
@@ -46,9 +55,6 @@
 - **Conflict Resolution:** Expertly handled delivery pressures by prioritizing critical features (MVP) and optimizing resource allocation to ensure on-time project shipping.
 ---->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
 
 
 <!---🌐 Devops Engineer |---> 
@@ -58,11 +64,6 @@
   <img src="https://komarev.com/ghpvc/?username=shariyerShazan&label=Shariyer%20Shazan%20Github%20Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="shazan_github visitors" />
 </p>
  -->
-
-
-<p align="center">
-  <img src="./3-banner.png" width="100%" alt="shazan Banner"/>
-</p>
 
 
 
@@ -77,6 +78,7 @@
 </a>
 
 </p>
+
 
 
 
