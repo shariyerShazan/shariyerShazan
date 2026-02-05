@@ -15,6 +15,42 @@
 </p>
 
 
+
+## 🚀 About Me
+
+- 🔭 **Full-Stack Developer @Softvence Agency** | Building scalable enterprise apps.
+- 🎓 **B.Sc. in CSE** at Southeast University.
+- ⚙️ **Backend:** NestJS, Node.js, Express, PostgreSQL (Prisma), MongoDB & Redis.
+- 🎨 **Frontend:** React, Next.js, TypeScript & Tailwind CSS 4.
+- 🚀 **DevOps:** Docker, AWS (EC2/S3) & CI/CD (GitHub Actions).
+- 🌱 **Learning:** System Design, Kafka, and DSA.
+
+---
+
+## 💼 Experience
+### **Full-Stack Developer — Softvence Agency** _(Aug 2025 – Present)_
+
+##### ⚙️ Backend & Infrastructure
+- **Scalable APIs:** Built robust REST APIs using **NestJS** & **TypeScript**.
+- **Real-time & DB:** Handled **WebSockets**, Redis workers, and **PostgreSQL/MongoDB** architecture.
+- **FinTech:** Integrated **Stripe** subscriptions and secure payment flows.
+- **Cloud:** Deployed containerized apps to **AWS** via **Docker** & **GitHub Actions**.
+
+
+
+##### 💻 Frontend & UI/UX
+- **Modern UI:** Crafted responsive interfaces with **React**, **Next.js**, and **Tailwind 4**.
+- **State:** Managed complex data flows using **Redux Toolkit** & **RTK Query**.
+- **Dashboards:** Built role-based Admin panels using **Shadcn UI** & **Recharts**.
+
+##### 🎯 Management & Delivery
+- **Project Lead:** Translating client requirements into technical goals and overseeing delivery.
+- **Client Management:** Direct communication with clients to ensure project alignment.
+- **Execution:** Proven ability to ship high-quality code under **tight deadlines** and **delivery pressure**.
+
+
+
+<!---
 ## 🚀 About Me
 
 - 🔭 I’m currently working as a **FullStack Developer at Softvence Agency**, architecting scalable enterprise solutions.
@@ -46,7 +82,6 @@
 - **Interactive Analytics:** Integrated **Recharts** to visualize complex data points like revenue growth and user engagement metrics.
 - **Performance Optimization:** Leveraged Server Components and optimized asset loading to achieve high Lighthouse scores.
 
-<!----
 ### 🎖️ Team Lead, Client & Project Management
 
 - **Team Leadership:** Led a cross-functional team of developers, conducting **code reviews**, mentoring junior devs, and ensuring best practices in the development lifecycle.
@@ -55,16 +90,6 @@
 - **Time & Delivery Management:** Proven track record of delivering high-quality enterprise solutions under **tight deadlines** and high-pressure environments.
 - **Conflict Resolution:** Expertly handled delivery pressures by prioritizing critical features (MVP) and optimizing resource allocation to ensure on-time project shipping.
 ---->
-
-
-
-<!---🌐 Devops Engineer |---> 
-<!-- Visitor Counter  -->
-<!--   
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shariyerShazan&label=Shariyer%20Shazan%20Github%20Total%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="shazan_github visitors" />
-</p>
- -->
 
 
 
