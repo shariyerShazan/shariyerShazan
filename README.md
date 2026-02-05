@@ -15,30 +15,31 @@
 </p>
 
 
-
-<!--- 
 ## 🚀 About Me
 
-- 🧠 Strong in backend architecture, API design, and system scalability
-- 🛠️ Experienced with **PostgreSQL, MongoDB, Redis**
-- ⚡ Built real-time systems using **Socket.IO**
-- 🐳 Hands-on with **Docker, CI/CD**, and **AWS (EC2 & S3)**
-- 🌱 Currently learning **Golang**, **C++**, and **Data Structures & Algorithms**
-- 🤝 Open to collaboration and backend-focused opportunities
----->
+- 🔭 I’m currently working as a **FullStack Developer at Softvence Agency**, architecting scalable enterprise solutions.
+- 🎓 Pursuing a **B.Sc. in Computer Science** at **Southeast University**.
+- 🏗️ Deep expertise in **Full-Stack Development** & **Microservices Architecture**, focusing on high-availability and distributed systems.
+- ⚙️ Specialized in **Backend Engineering** with **Node, NestJS, Express, PostgreSQL (Prisma), MongoDB**, and **Redis** for caching.
+- 🎨 Crafting modern, high-performance UIs using **React, Next.js, TypeScript**, and **Tailwind CSS 4**.
+- 🚀 Hands-on with **Cloud & DevOps**: **Docker, AWS (EC2 & S3), CI/CD (GitHub Actions)**, and **Nginx**.
+- 🤝 Skilled in **Client Management**, leading cross-functional teams and delivering projects under high-pressure agency environments.
+- 🌱 Currently deep-diving into **System Design, Kafka, and Data Structures & Algorithms (DSA)** to master performance engineering.
+
+---
 
 
 ## 💼 Experience
-**FullStack Developer — Softvence Agency** _(August 2025–Present)_
+### **FullStack Developer — Softvence Agency** _(August 2025–Present)_
 
-#### ⚙️ Backend & DevOps
-- **Microservices & APIs:** Built and maintained scalable RESTful APIs and Microservices using **NestJS** and **TypeScript**.
+##### ⚙️ Backend & DevOps
+- **Microservices & APIs:** Built and maintained scalable RESTful APIs and Microservices using **Node**, **NestJS**, **Express** and **TypeScript**.
 - **Real-time & Background Tasks:** Developed **WebSocket** gateways for live features and managed background workers using Redis.
 - **Database Architecture:** Designed and managed relational schemas in **PostgreSQL** with **Prisma ORM** and handled NoSQL data in **MongoDB**.
 - **FinTech & Payments:** Architected end-to-end **subscription flows** and automated billing systems using **Stripe API** and Webhooks.
 - **Cloud & Deployment:** Deployed containerized applications to **AWS (EC2 & S3)** using **Docker** and automated **CI/CD pipelines** via GitHub Actions.
 
-#### 💻 Frontend Development
+##### 💻 Frontend Development
 - **Modern UI/UX:** Developed high-performance, responsive user interfaces using **React 19**, **Next.js**, and **Tailwind CSS 4**.
 - **State Management:** Architected complex client-side states using **Redux Toolkit** and **RTK Query** for efficient data fetching and caching.
 - **Enterprise Dashboards:** Built multi-role dashboards (Admin, Client, Executive) with **Shadcn UI** and **Radix UI** primitives.
@@ -239,6 +240,7 @@
 --->
 
 
+<!---
 ---
 
 ### 💻 About Me:
@@ -251,21 +253,21 @@
   and **Docker-based deployments**.
 - 🚀 Experienced in **Cloud & DevOps fundamentals** including  
   **AWS, CI/CD pipelines, Nginx, Vercel, Render**, and modern deployment workflows.
-<!-- 🧩 Skilled in modern architecture patterns like  
+ 🧩 Skilled in modern architecture patterns like  
   **Clean Architecture, Caching (Redis), Messaging Queues (RabbitMQ), Microservices**,  
-  and **AI-powered integrations**. -->
+  and **AI-powered integrations**. 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node, Express, GoFiber, Databases, Cloud, or System Design basics**.
 - 📄 <a target="_blank" href="https://drive.google.com/file/d/1ynzYQHcYjNxNQxZyfW84zooNeundGdNk/view">
   View My Resume
 </a>
 
-
+---->
 
 ---
 
 ### 🧠 Currently Learning
 
-- 🎯 **Microservices** (GoFiber & Node.js)
+- 🎯 **Microservices** (Node.js & NestJs)
 - 📘 **Kafka** (Message Queue / Event-Driven Architecture)
 
 
