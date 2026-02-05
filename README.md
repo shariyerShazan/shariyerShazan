@@ -7,6 +7,49 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
+<!--- 
+## 🚀 About Me
+
+- 🧠 Strong in backend architecture, API design, and system scalability
+- 🛠️ Experienced with **PostgreSQL, MongoDB, Redis**
+- ⚡ Built real-time systems using **Socket.IO**
+- 🐳 Hands-on with **Docker, CI/CD**, and **AWS (EC2 & S3)**
+- 🌱 Currently learning **Golang**, **C++**, and **Data Structures & Algorithms**
+- 🤝 Open to collaboration and backend-focused opportunities
+---->
+
+
+## 💼 Experience
+**FullStack Developer — Softvence Agency** _(August 2025–Present)_
+
+#### ⚙️ Backend & DevOps
+- **Microservices & APIs:** Built and maintained scalable RESTful APIs and Microservices using **NestJS** and **TypeScript**.
+- **Real-time & Background Tasks:** Developed **WebSocket** gateways for live features and managed background workers using Redis.
+- **Database Architecture:** Designed and managed relational schemas in **PostgreSQL** with **Prisma ORM** and handled NoSQL data in **MongoDB**.
+- **FinTech & Payments:** Architected end-to-end **subscription flows** and automated billing systems using **Stripe API** and Webhooks.
+- **Cloud & Deployment:** Deployed containerized applications to **AWS (EC2 & S3)** using **Docker** and automated **CI/CD pipelines** via GitHub Actions.
+
+#### 💻 Frontend Development
+- **Modern UI/UX:** Developed high-performance, responsive user interfaces using **React 19**, **Next.js**, and **Tailwind CSS 4**.
+- **State Management:** Architected complex client-side states using **Redux Toolkit** and **RTK Query** for efficient data fetching and caching.
+- **Enterprise Dashboards:** Built multi-role dashboards (Admin, Client, Executive) with **Shadcn UI** and **Radix UI** primitives.
+- **Interactive Analytics:** Integrated **Recharts** to visualize complex data points like revenue growth and user engagement metrics.
+- **Performance Optimization:** Leveraged Server Components and optimized asset loading to achieve high Lighthouse scores.
+
+<!----
+### 🎖️ Team Lead, Client & Project Management
+
+- **Team Leadership:** Led a cross-functional team of developers, conducting **code reviews**, mentoring junior devs, and ensuring best practices in the development lifecycle.
+- **Client Management:** Successfully collaborated with international clients to translate complex business requirements into technical specifications and actionable sprint goals.
+- **Agile Methodology:** Managed sprint planning, daily stand-ups, and retrospective meetings to maintain a high development velocity.
+- **Time & Delivery Management:** Proven track record of delivering high-quality enterprise solutions under **tight deadlines** and high-pressure environments.
+- **Conflict Resolution:** Expertly handled delivery pressures by prioritizing critical features (MVP) and optimizing resource allocation to ensure on-time project shipping.
+---->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
 
 <!---🌐 Devops Engineer |---> 
 <!-- Visitor Counter  -->
