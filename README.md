@@ -43,10 +43,7 @@
 - **State:** Managed complex data flows using **Redux Toolkit** & **RTK Query**.
 - **Dashboards:** Built role-based Admin panels using **Shadcn UI** & **Recharts**.
 
-##### 🎯 Management & Delivery
-- **Project Lead:** Translating client requirements into technical goals and overseeing delivery.
-- **Client Management:** Direct communication with clients to ensure project alignment.
-- **Execution:** Proven ability to ship high-quality code under **tight deadlines** and **delivery pressure**.
+
 
 
 
