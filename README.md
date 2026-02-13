@@ -287,13 +287,6 @@
 
 ---
 
-### 🧠 Currently Learning
-
-- 🎯 **Microservices** (Node.js & NestJs)
-- 📘 **Kafka** (Message Queue / Event-Driven Architecture)
-
-
-
 
 
 <p align="center">
