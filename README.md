@@ -232,7 +232,7 @@
 
 <p align="center">
   <p align="center">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <!--- <img src="https://github-readme-stats.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" width="45%" /> --->
     <img src="https://streak-stats.demolab.com?user=shariyerShazan&theme=radical&hide_border=true&cache_seconds=1800" width="45%" />
   </p>
@@ -244,7 +244,7 @@
   </p>
 </p>
 
-  <!--
+  <--
   Leetcode + stats
 <p align="center">
   <a href="https://leetcode.com/u/shariyershazan/">
