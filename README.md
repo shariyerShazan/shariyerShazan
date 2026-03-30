@@ -244,12 +244,12 @@
   -->
 
   <p align="center">
-  <a href="https://leetcode.com/u/shariyershazan/">
-    <img src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
+  <a href="https://leetcode.com/u/shariyershazan/" >
+    <img height="180em"  width="45%" src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
   </a>
 
-  <a href="https://github.com/shariyerShazan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/shariyerShazan" >
+    <img height="180em"  width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 </p>
