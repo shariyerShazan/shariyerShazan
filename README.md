@@ -232,8 +232,12 @@
 
 <p align="center">
   <p align="center">
+     <a href="https://github.com/shariyerShazan" >
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="45%" />
+        </a>
+        <a href="https://github.com/shariyerShazan" >
     <img height="180em" src="https://streak-stats.demolab.com?user=shariyerShazan&theme=radical&cache_seconds=1800" width="45%" />
+           </a>
   </p>
 
 
