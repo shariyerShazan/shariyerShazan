@@ -232,15 +232,26 @@
 
 <p align="center">
   <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&count_private=true" width="45%" />
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="45%" />
     <img height="180em" src="https://streak-stats.demolab.com?user=shariyerShazan&theme=radical&cache_seconds=1800" width="45%" />
   </p>
 
 
-  <p align="center">
+ <!--- <p align="center">
     <img  height="220em"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=radical&cache_seconds=1800"  />
      <img  height="220em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=radical&cache_seconds=1800" />
   </p>
+  -->
+
+  <p align="center">
+  <a href="https://leetcode.com/u/shariyershazan/">
+    <img src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
+  </a>
+
+  <a href="https://github.com/shariyerShazan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
 </p>
 
   <!--
