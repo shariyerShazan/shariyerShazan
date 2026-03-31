@@ -249,7 +249,7 @@
 
   <p align="center">
   <a href="https://leetcode.com/u/shariyershazan/" >
-    <img height="210em"  width="49%" src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
+    <img height="210em"  width="45%" src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
   </a>
 
   <a href="https://github.com/shariyerShazan" >
