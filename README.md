@@ -28,7 +28,7 @@
 ---
 
 ## 💼 Experience
-### **Full-Stack Developer — Softvence Agency** _(Aug 2025 – Present)_
+### **Full-Stack Developer — Softvence** _(Aug 2025 – Present)_
 
 - Developed scalable SaaS and marketplace applications using modern web technologies.
 - Designed and implemented secure backend APIs and microservice architectures.
