@@ -18,75 +18,22 @@
 
 ## 🚀 About Me 
 
-- 🔭 **Full-Stack Developer @Softvence Agency** | Building scalable enterprise apps.
-- 🎓 **B.Sc. in CSE** at Southeast University.
-- ⚙️ **Backend:** NestJS, Node.js, Express, PostgreSQL (Prisma), MongoDB & Redis.
-- 🎨 **Frontend:** React, Next.js, TypeScript & Tailwind CSS 4.
-- 🚀 **DevOps:** Docker, AWS (EC2/S3) & CI/CD (GitHub Actions).
-- 🌱 **Learning:** System Design, Kafka, and DSA.
+- Backend-focused Full-Stack Developer specializing in scalable and high-performance applications.
+- Experienced in building microservices using NestJS, Kafka, gRPC, Redis, and PostgreSQL.
+- Passionate about backend architecture, distributed systems, and secure API development.
+- Skilled in Docker, AWS, Nginx, GitHub Actions, and CI/CD for production deployments.
+- Proficient in React, Next.js, and modern web technologies for full-stack development.
+- Always learning and exploring cloud-native technologies, DevOps, and software engineering best practices.
 
 ---
 
 ## 💼 Experience
 ### **Full-Stack Developer — Softvence Agency** _(Aug 2025 – Present)_
 
-##### ⚙️ Backend & Infrastructure
-- **Scalable APIs:** Built robust REST APIs using **NestJS** & **TypeScript**.
-- **Real-time & DB:** Handled **WebSockets**, Redis workers, and **PostgreSQL/MongoDB** architecture.
-- **FinTech:** Integrated **Stripe** subscriptions and secure payment flows.
-- **Cloud:** Deployed containerized apps to **AWS** via **Docker** & **GitHub Actions**.
-
-
-
-##### 💻 Frontend & UI/UX
-- **Modern UI:** Crafted responsive interfaces with **React**, **Next.js**, and **Tailwind 4**.
-- **State:** Managed complex data flows using **Redux Toolkit** & **RTK Query**.
-- **Dashboards:** Built role-based Admin panels using **Shadcn UI** & **Recharts**.
-
-
-
-
-
-<!---
-## 🚀 About Me
-
-- 🔭 I’m currently working as a **FullStack Developer at Softvence Agency**, architecting scalable enterprise solutions.
-- 🎓 Pursuing a **B.Sc. in Computer Science** at **Southeast University**.
-- 🏗️ Deep expertise in **Full-Stack Development** & **Microservices Architecture**, focusing on high-availability and distributed systems.
-- ⚙️ Specialized in **Backend Engineering** with **Node, NestJS, Express, PostgreSQL (Prisma), MongoDB**, and **Redis** for caching.
-- 🎨 Crafting modern, high-performance UIs using **React, Next.js, TypeScript**, and **Tailwind CSS 4**.
-- 🚀 Hands-on with **Cloud & DevOps**: **Docker, AWS (EC2 & S3), CI/CD (GitHub Actions)**, and **Nginx**.
-- 🤝 Skilled in **Client Management**, leading cross-functional teams and delivering projects under high-pressure agency environments.
-- 🌱 Currently deep-diving into **System Design, Kafka, and Data Structures & Algorithms (DSA)** to master performance engineering.
-
----
-
-
-## 💼 Experience
-### **FullStack Developer — Softvence Agency** _(August 2025–Present)_
-
-##### ⚙️ Backend & DevOps
-- **Microservices & APIs:** Built and maintained scalable RESTful APIs and Microservices using **Node**, **NestJS**, **Express** and **TypeScript**.
-- **Real-time & Background Tasks:** Developed **WebSocket** gateways for live features and managed background workers using Redis.
-- **Database Architecture:** Designed and managed relational schemas in **PostgreSQL** with **Prisma ORM** and handled NoSQL data in **MongoDB**.
-- **FinTech & Payments:** Architected end-to-end **subscription flows** and automated billing systems using **Stripe API** and Webhooks.
-- **Cloud & Deployment:** Deployed containerized applications to **AWS (EC2 & S3)** using **Docker** and automated **CI/CD pipelines** via GitHub Actions.
-
-##### 💻 Frontend Development
-- **Modern UI/UX:** Developed high-performance, responsive user interfaces using **React 19**, **Next.js**, and **Tailwind CSS 4**.
-- **State Management:** Architected complex client-side states using **Redux Toolkit** and **RTK Query** for efficient data fetching and caching.
-- **Enterprise Dashboards:** Built multi-role dashboards (Admin, Client, Executive) with **Shadcn UI** and **Radix UI** primitives.
-- **Interactive Analytics:** Integrated **Recharts** to visualize complex data points like revenue growth and user engagement metrics.
-- **Performance Optimization:** Leveraged Server Components and optimized asset loading to achieve high Lighthouse scores.
-
-### 🎖️ Team Lead, Client & Project Management
-
-- **Team Leadership:** Led a cross-functional team of developers, conducting **code reviews**, mentoring junior devs, and ensuring best practices in the development lifecycle.
-- **Client Management:** Successfully collaborated with international clients to translate complex business requirements into technical specifications and actionable sprint goals.
-- **Agile Methodology:** Managed sprint planning, daily stand-ups, and retrospective meetings to maintain a high development velocity.
-- **Time & Delivery Management:** Proven track record of delivering high-quality enterprise solutions under **tight deadlines** and high-pressure environments.
-- **Conflict Resolution:** Expertly handled delivery pressures by prioritizing critical features (MVP) and optimizing resource allocation to ensure on-time project shipping.
----->
+- Developed scalable SaaS and marketplace applications using modern web technologies.
+- Designed and implemented secure backend APIs and microservice architectures.
+- Built AI-powered health tracking and canine management platforms.
+- Automated deployments and maintained production infrastructure with Docker, AWS, CI/CD, and Nginx.
 
 
 
