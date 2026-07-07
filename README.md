@@ -24,6 +24,7 @@
 - Skilled in Docker, AWS, Nginx, GitHub Actions, and CI/CD for production deployments.
 - Proficient in React, Next.js, and modern web technologies for full-stack development.
 - Always learning and exploring cloud-native technologies, DevOps, and software engineering best practices.
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1vq9T0M7qWBFi7xLagAcx9nojvnApvJyQ/view?usp=sharing)
 
 ---
 
