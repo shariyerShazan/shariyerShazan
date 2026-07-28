@@ -99,10 +99,10 @@
 ### 🤖 AI Engineering
 
 <p >
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge&logoColor=white" />
 </p>
 
 
@@ -129,11 +129,11 @@
 ### 🏗️ Architecture & Design
 
 <p>
-  <img src="https://img.shields.io/badge/Monolithic-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-E11D48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event--Driven-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Gateway-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monolithic-4B5563?style=for-the-badge&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-E11D48?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Event--Driven-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Gateway-0F766E?style=for-the-badge&logo=kong&logoColor=white" />
 </p>
 
 
