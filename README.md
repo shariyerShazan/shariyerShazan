@@ -107,7 +107,7 @@
 
 
 
-### 🛠 DevOps, Cloud & Deployments
+### 🛠 DevOps & Cloud
 <p >
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -189,12 +189,6 @@
 
 ---
 
-  <!--
-<div align="center">
-
-</div>
---->
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -208,12 +202,6 @@
   </p>
 
 
- <!--- <p align="center">
-    <img  height="220em"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariyerShazan&theme=radical&cache_seconds=1800"  />
-     <img  height="220em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariyerShazan&theme=radical&cache_seconds=1800" />
-  </p>
-  -->
-
   <p align="center">
   <a href="https://leetcode.com/u/shariyershazan/" >
     <img height="210em"  width="45%" src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
@@ -224,48 +212,6 @@
   </a>
 </p>
 </p>
-
-  <!--
-  Leetcode + stats
-<p align="center">
-  <a href="https://leetcode.com/u/shariyershazan/">
-    <img src="https://leetcard.jacoblin.cool/shariyershazan?theme=dark&font=Baloo%202&ext=contest" />
-  </a>
-
-  <a href="https://github.com/shariyerShazan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shariyerShazan&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-  -->
-
-<!--- 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shariyerShazan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
---->
-
-
-<!---
----
-
-### 💻 About Me:
-
-- 🔭 I’m currently working as a **Full-Stack Web Developer**, building scalable web apps using 
-  **React, Next.js, TypeScript, Node.js, Express**, and **GoFiber**.
-- 🎓 Pursuing a **B.Sc. in Computer Science** at **Southeast University**.
-- ⚙️ Strong in **backend engineering** with hands-on experience in  
-  **MongoDB, PostgreSQL, MySQL, Prisma, Mongoose, REST APIs, JWT, Socket.io**,  
-  and **Docker-based deployments**.
-- 🚀 Experienced in **Cloud & DevOps fundamentals** including  
-  **AWS, CI/CD pipelines, Nginx, Vercel, Render**, and modern deployment workflows.
- 🧩 Skilled in modern architecture patterns like  
-  **Clean Architecture, Caching (Redis), Messaging Queues (RabbitMQ), Microservices**,  
-  and **AI-powered integrations**. 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node, Express, GoFiber, Databases, Cloud, or System Design basics**.
-- 📄 <a target="_blank" href="https://drive.google.com/file/d/1ynzYQHcYjNxNQxZyfW84zooNeundGdNk/view">
-  View My Resume
-</a>
-
----->
 
 ---
 
