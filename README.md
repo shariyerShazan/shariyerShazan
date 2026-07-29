@@ -163,6 +163,8 @@
 <p>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/SSLCommerz-0177B5?style=for-the-badge&logo=ssl&logoColor=white" />
+ <img src="https://img.shields.io/badge/Razorpay-0C61FF?style=for-the-badge&logo=razorpay&logoColor=white" />
+ <img src="https://img.shields.io/badge/Trustap-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white" />
 </p>
 
 ### 🛠️ Development Tools
