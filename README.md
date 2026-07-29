@@ -96,7 +96,7 @@
 </p>
 
 
-### 🤖 AI Engineering
+### 🤖 AI & LLM Integration
 
 <p >
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
