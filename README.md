@@ -27,7 +27,6 @@
 - Continuously learning distributed systems, cloud-native technologies, DevOps, and software architecture.
 - 📄 Resume: [View My Resume](https://drive.google.com/file/d/1vq9T0M7qWBFi7xLagAcx9nojvnApvJyQ/view?usp=sharing)
 
----
 
 ## 💼 Experience
 ### **Full-Stack Developer — Betopia** _(Aug 2025 – Present)_
@@ -37,6 +36,17 @@
 - Built AI-powered health tracking and canine management platforms.
 - Automated deployments and maintained production infrastructure with Docker, AWS, CI/CD, and Nginx.
 
+
+
+## 🤝 Open Source Contributions
+### [NestJS — Core Framework](https://github.com/nestjs/nest)
+
+**Core bug fix:** Improved singleton provider reuse for lazily loaded modules, preventing unnecessary provider reconstruction and ensuring existing instances are correctly shared.
+* Added regression tests covering lazy module loading and singleton provider reuse.
+* Successfully merged into the NestJS `master` branch — [PR #17430](https://github.com/nestjs/nest/pull/17430).
+
+
+---
 
 
 ### 🌍 Let's Connect...
