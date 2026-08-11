@@ -29,14 +29,13 @@
 
 
 ## 💼 Experience
-### **Full-Stack Developer — Betopia** _(Aug 2025 – Present)_
+### **Full-Stack Developer — Betopia** *(Aug 2025 – Present)*
 
-- Developed scalable SaaS and marketplace applications using modern web technologies.
-- Designed and implemented secure backend APIs and microservice architectures.
-- Built AI-powered health tracking and canine management platforms.
-- Automated deployments and maintained production infrastructure with Docker, AWS, CI/CD, and Nginx.
-
-
+- Built and maintained production SaaS and marketplace applications.
+- Developed backend systems with Node.js, NestJS, PostgreSQL, Redis, MongoDB, and Socket.IO.
+- Integrated AI-powered features and real-time communication capabilities.
+- Managed AWS/VPS deployments with Docker, CI/CD, Nginx, and Caddy.
+- Worked directly with clients on requirements, delivery, troubleshooting, and project maintenance.
 
 ## 🤝 Open Source Contributions
 ### [NestJS — Core Framework](https://github.com/nestjs/nest)
