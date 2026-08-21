@@ -29,7 +29,7 @@
 
 
 ## 💼 Experience
-### **Full-Stack Developer — Betopia** *(Aug 2025 – Present)*
+### **Full-Stack Developer — Softvence** *(Aug 2025 – Present)*
 
 - Built and maintained production SaaS and marketplace applications.
 - Developed backend systems with Node.js, NestJS, PostgreSQL, Redis, MongoDB, and Socket.IO.
