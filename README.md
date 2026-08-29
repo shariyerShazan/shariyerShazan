@@ -44,6 +44,11 @@
 * Added regression tests covering lazy module loading and singleton provider reuse.
 * Successfully merged into the NestJS `master` branch — [PR #17430](https://github.com/nestjs/nest/pull/17430).
 
+### [NestJS — Core Framework](https://github.com/nestjs/nest)
+**Core bug fix:** Fixed `DiscoveryService.getProviders({ metadataKey })` silently skipping providers registered via `useValue`, caused by a missing negation in the discovery lookup condition — restoring correct discovery behavior to match `useClass` providers.
+* Independently identified, reproduced, and root-caused the bug in `DiscoverableMetaHostCollection`.
+* Added regression tests covering `useValue` provider discovery with custom discovery decorators.
+* Successfully merged into the NestJS `master` branch — [PR #17618](https://github.com/nestjs/nest/pull/17618).
 
 ---
 
