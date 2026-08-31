@@ -37,24 +37,19 @@
 - Managed AWS/VPS deployments with Docker, CI/CD, Nginx, and Caddy.
 - Worked directly with clients on requirements, delivery, troubleshooting, and project maintenance.
 
+
+
+
+
 ## 🤝 Open Source Contributions
-### [NestJS — Core Framework](https://github.com/nestjs/nest)
-
-**Core bug fix:** Improved singleton provider reuse for lazily loaded modules, preventing unnecessary provider reconstruction and ensuring existing instances are correctly shared.
-* Added regression tests covering lazy module loading and singleton provider reuse.
-* Successfully merged into the NestJS `master` branch — [PR #17430](https://github.com/nestjs/nest/pull/17430).
 
 ### [NestJS — Core Framework](https://github.com/nestjs/nest)
-**Core bug fix:** Fixed `DiscoveryService.getProviders({ metadataKey })` silently skipping providers registered via `useValue`, caused by a missing negation in the discovery lookup condition — restoring correct discovery behavior to match `useClass` providers.
-* Independently identified, reproduced, and root-caused the bug in `DiscoverableMetaHostCollection`.
-* Added regression tests covering `useValue` provider discovery with custom discovery decorators.
-* Successfully merged into the NestJS `master` branch — [PR #17618](https://github.com/nestjs/nest/pull/17618).
 
-### [NestJS — Core Framework](https://github.com/nestjs/nest)
-**Core bug fix:** Fixed `LazyModuleLoader.load({ logger: false })` permanently silencing `InstanceLoader` logging for all subsequent lazy module loads, caused by the logger override never being restored — scoped the silencing to a single invocation using a try/finally restore.
-* Independently identified, reproduced, and root-caused the bug in `LazyModuleLoader`.
-* Added a regression test verifying silenced calls don't affect subsequent `load()` invocations.
-* Successfully merged into the NestJS `master` branch — [PR #17631](https://github.com/nestjs/nest/pull/17631).
+- **[PR #17430 — Singleton Provider Reuse](https://github.com/nestjs/nest/pull/17430):** Fixed unnecessary provider reconstruction in lazily loaded modules, ensuring existing singleton instances are correctly reused. Added regression tests and successfully merged into `master`.
+
+- **[PR #17618 — Provider Discovery](https://github.com/nestjs/nest/pull/17618):** Fixed `DiscoveryService.getProviders({ metadataKey })` skipping `useValue` providers due to an incorrect discovery condition. Added regression tests and successfully merged into `master`.
+
+- **[PR #17631 — Lazy Module Logger](https://github.com/nestjs/nest/pull/17631):** Fixed `LazyModuleLoader.load({ logger: false })` permanently disabling `InstanceLoader` logging across subsequent loads. Scoped the logger override to a single invocation with proper restoration and successfully merged into `master`. 
 
 ---
 
