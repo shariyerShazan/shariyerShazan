@@ -50,6 +50,12 @@
 * Added regression tests covering `useValue` provider discovery with custom discovery decorators.
 * Successfully merged into the NestJS `master` branch — [PR #17618](https://github.com/nestjs/nest/pull/17618).
 
+### [NestJS — Core Framework](https://github.com/nestjs/nest)
+**Core bug fix:** Fixed `LazyModuleLoader.load({ logger: false })` permanently silencing `InstanceLoader` logging for all subsequent lazy module loads, caused by the logger override never being restored — scoped the silencing to a single invocation using a try/finally restore.
+* Independently identified, reproduced, and root-caused the bug in `LazyModuleLoader`.
+* Added a regression test verifying silenced calls don't affect subsequent `load()` invocations.
+* Successfully merged into the NestJS `master` branch — [PR #17631](https://github.com/nestjs/nest/pull/17631).
+
 ---
 
 
