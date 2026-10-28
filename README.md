@@ -30,7 +30,7 @@
 
 ## 💼 Experience
 
-### **Full-Stack Developer — Softvence** *(Aug 2025 – Present)*
+### **Full-Stack Developer — Softvence** *(Aug 2025 – Nov 2026)*
 
 * Built and maintained **production SaaS and marketplace applications**.
 * Developed backend systems using **Node.js, NestJS, TypeScript, PostgreSQL, MongoDB, Prisma, and Redis**.
