@@ -51,7 +51,7 @@
 * Built the cross-platform **React Native (Expo)** app (with **Health Connect** biometric sync) and **Next.js** admin dashboard for provider verification, bookings, and platform telemetry.
 * Engineered a two-tier cloud infrastructure with zero-downtime **GitHub Actions CI/CD** and **Prometheus/Grafana** monitoring: a **scaled production tier** provisioned via **Terraform** (**AWS EKS, VPC, ECR, Multi-AZ RDS, ElastiCache Redis, S3, IAM, ALB, Security Groups**) and a **lightweight dev/staging tier** automated via **Ansible** on **AWS EC2 (k3s & Helm), RDS, S3, and Caddy**.
 
-### **Full-Stack Developer — Softvence** *(Aug 2025 – Nov 2026)*
+### **Full-Stack Developer — Softvence** *(Aug 2025 – Oct 2026)*
 * Architected and built a full-stack **Canine Registry SaaS Platform** using **NestJS, PostgreSQL, Prisma, Stripe, Cloudinary** on the backend and **React, TypeScript, Vite, Redux Toolkit** on the frontend.
 * Implemented **role-based authentication (RBAC)** and granular **manager access control** for owners, breeders, managers, and administrators.
 * Engineered end-to-end **canine & litter registrations, breeder programs, PCR/Pedigree certificate processing, ownership transfers, and real-time notifications**.
