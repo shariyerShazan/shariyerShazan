@@ -45,7 +45,7 @@
 
 ## 💼 Experience
 
-### **Lead Full-Stack & DevOps Engineer — YouFresh LLC** *(Jun 2026 – Present)*
+### **Lead Full-Stack & DevOps Engineer — YouFresh LLC** *(Jun 2026 – Present)* 
 * Leading the end-to-end engineering and ongoing maintenance of **Grovr**, a multi-platform healthcare & wellness ecosystem (**Mobile App, Web/Admin Dashboard, Backend API, and Cloud Infrastructure**).
 * Architected the **NestJS, PostgreSQL (Prisma), and Redis** backend with **Socket.IO** real-time chat/call signaling, **Stripe Connect** provider payouts & subscriptions, and **OpenAI Vision** meal scanning.
 * Built the cross-platform **React Native (Expo)** app (with **Health Connect** biometric sync) and **Next.js** admin dashboard for provider verification, bookings, and platform telemetry.
