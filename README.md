@@ -37,7 +37,8 @@
 * Build secure and reliable systems with **authentication, RBAC authorization, validation, distributed caching, rate limiting, database replication, and real-time communication**.
 * Design and develop **microservices, event-driven architectures, and cross-platform mobile & web applications**.
 * Integrate **AI-powered capabilities** using the **OpenAI API (GPT-4 Vision / LLM)** and **Model Context Protocol (MCP)**.
-* Architect, automate, and maintain cloud-native infrastructure using **Kubernetes (EKS & k3s), Helm, Terraform (IaC), Ansible, Docker, AWS, Prometheus, Grafana, Nginx, Caddy, and GitHub Actions CI/CD**.
+* Architect, automate, and maintain cloud-native infrastructure using **Kubernetes (EKS & k3s), Helm, Terraform (IaC), Ansible, Docker, Jenkins, GitHub Actions CI/CD, Prometheus, Grafana, Nginx, and Caddy**.
+* Hands-on expertise across the **AWS Cloud Ecosystem**, designing and provisioning production workloads on **EKS, EC2, VPC, ECR, S3, Multi-AZ RDS, ElastiCache (Redis), Application Load Balancers (ALB), Security Groups, and IAM**.
 * Contributed bug fixes and regression tests to the **NestJS core framework**, with **3 pull requests merged into `master`**.
 * 📄 Resume: [View My Resume](https://drive.google.com/file/d/1vq9T0M7qWBFi7xLagAcx9nojvnApvJyQ/view?usp=sharing)
 
@@ -49,7 +50,7 @@
 * Leading the end-to-end engineering and ongoing maintenance of **Grovr**, a multi-platform healthcare & wellness ecosystem (**Mobile App, Web/Admin Dashboard, Backend API, and Cloud Infrastructure**).
 * Architected the **NestJS, PostgreSQL (Prisma), and Redis** backend with **Socket.IO** real-time chat/call signaling, **Stripe Connect** provider payouts & subscriptions, and **OpenAI Vision** meal scanning.
 * Built the cross-platform **React Native (Expo)** app (with **Health Connect** biometric sync) and **Next.js** admin dashboard for provider verification, bookings, and platform telemetry.
-* Engineered a two-tier cloud infrastructure with zero-downtime **GitHub Actions CI/CD** and **Prometheus/Grafana** monitoring: a **scaled production tier** provisioned via **Terraform** (**AWS EKS, VPC, ECR, Multi-AZ RDS, ElastiCache Redis, S3, IAM, ALB, Security Groups**) and a **lightweight dev/staging tier** automated via **Ansible** on **AWS EC2 (k3s & Helm), RDS, S3, and Caddy**.
+* Engineered a two-tier cloud infrastructure with zero-downtime **GitHub Actions & Jenkins CI/CD** and **Prometheus/Grafana** monitoring: a **scaled production tier** provisioned via **Terraform** (**AWS EKS, VPC, ECR, Multi-AZ RDS, ElastiCache Redis, S3, IAM, ALB, Security Groups**) and a **lightweight dev/staging tier** automated via **Ansible** on **AWS EC2 (k3s & Helm), RDS, S3, and Caddy**.
 
 ### **Full-Stack Developer — Softvence** *(Aug 2025 – Oct 2026)*
 * Architected and built a full-stack **Canine Registry SaaS Platform** using **NestJS, PostgreSQL, Prisma, Stripe, Cloudinary** on the backend and **React, TypeScript, Vite, Redux Toolkit** on the frontend.
@@ -129,6 +130,7 @@
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
